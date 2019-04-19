@@ -107,3 +107,11 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# calendar
+*.ics
+
+# latex
+*.aux
+*.out
+*.tex
+
